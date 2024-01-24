@@ -1,0 +1,6 @@
+{
+  "player_health": 50,
+  "enemy_health": 10,
+  "enemy_damage": 15,
+  "player_damage_baguette": 5
+}
